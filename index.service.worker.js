@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1766241358|16615776799';
+const CACHE_VERSION = '1766253166|28423139972';
 /** @type {string} */
 const CACHE_PREFIX = 'hades_cards-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
